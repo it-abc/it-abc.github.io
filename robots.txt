@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://it-abc.github.io/sitemap.xml
+Sitemap: https://itabc.life/sitemap.xml
