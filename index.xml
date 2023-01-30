@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>科技大白话（IT-ABC）, - 用通俗的语言</title><link>https://itabc.life/</link><description>Recent content on 科技大白话（IT-ABC）, - 用通俗的语言</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://itabc.life/index.xml" rel="self" type="application/rss+xml"/><item><title>关于</title><link>https://itabc.life/about/</link><pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate><guid>https://itabc.life/about/</guid><description>&lt;p>Hugo is a static site engine written in Go.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>科技大白话（IT-ABC）, - 用通俗的语言</title><link>https://itabc.life/</link><description>Recent content on 科技大白话（IT-ABC）, - 用通俗的语言</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 29 Jan 2023 00:04:54 +0800</lastBuildDate><atom:link href="https://itabc.life/index.xml" rel="self" type="application/rss+xml"/><item><title>关于</title><link>https://itabc.life/about/</link><pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate><guid>https://itabc.life/about/</guid><description>&lt;p>Hugo is a static site engine written in Go.&lt;/p>
 &lt;p>It makes use of a variety of open source projects including:&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/spf13/cobra">Cobra&lt;/a>&lt;/li>
@@ -6,4 +6,4 @@
 &lt;li>&lt;a href="https://github.com/spf13/jWalterWeatherman">J Walter Weatherman&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/spf13/cast">Cast&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>Learn more and contribute on &lt;a href="https://github.com/gohugoio">GitHub&lt;/a>.&lt;/p></description></item></channel></rss>
+&lt;p>Learn more and contribute on &lt;a href="https://github.com/gohugoio">GitHub&lt;/a>.&lt;/p></description></item><item><title>Apage</title><link>https://itabc.life/post/apage/</link><pubDate>Sun, 29 Jan 2023 00:04:54 +0800</pubDate><guid>https://itabc.life/post/apage/</guid><description>&lt;h1 id="just-for-test">just for test&lt;/h1></description></item></channel></rss>
